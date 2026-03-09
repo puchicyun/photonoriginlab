@@ -17,6 +17,19 @@
   時間方向を「分布」として扱い、その support から光速制限と因果境界が自然に現れる最上流の枠組み。  
   DOI: [https://doi.org/10.5281/zenodo.18839041](https://doi.org/10.5281/zenodo.18839041)
 
+  **関連論文（A-1〜A-4）**  
+  - A-1：基礎論・哲学的背景  
+    DOI: [https://doi.org/10.5281/zenodo.18839541](https://doi.org/10.5281/zenodo.18839541)
+
+  - A-2：数学的補強  
+    DOI: [https://doi.org/10.5281/zenodo.18839607](https://doi.org/10.5281/zenodo.18839607)
+
+  - A-3：スケール構造（後に F 系列へ移動予定）  
+    DOI: [https://doi.org/10.5281/zenodo.18613934](https://doi.org/10.5281/zenodo.18613934)
+
+  - A-4：ブラックホールリングダウンと量子様特徴  
+    DOI: [https://doi.org/10.5281/zenodo.18643983](https://doi.org/10.5281/zenodo.18643983)
+
 - **B：重力 = 未来方向の中心 μ の空間勾配**  
   μ(x) の空間的傾きが加速度を与え、弱重力極限でポアソン方程式を再現する重力の源泉的記述。  
   DOI: [https://doi.org/10.5281/zenodo.18839188](https://doi.org/10.5281/zenodo.18839188)
