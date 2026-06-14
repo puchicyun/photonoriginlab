@@ -52,23 +52,23 @@ DOI: [https://doi.org/10.5281/zenodo.20348976](https://doi.org/10.5281/zenodo.20
 DOI: [https://doi.org/10.5281/zenodo.20349022](https://doi.org/10.5281/zenodo.20349022)
 
 ### **FD-4：弱重力の抽象補正構造 — μ の偏りと空間変形**  
-DOI: [https://doi.org/10.5281/zenodo.20349045](https://doi.org/10.5281/zenodo.20349045)
+DOI: [https://doi.org/10.5281/zenodo.20685185](https://doi.org/10.5281/zenodo.20685185)
 
 ### **FD-5：観測量の具体補正 — 光子球・ISCO・QNM の統一構造**  
-DOI: [https://doi.org/10.5281/zenodo.20349062](https://doi.org/10.5281/zenodo.20349062)
+DOI: [https://doi.org/10.5281/zenodo.20349045](https://doi.org/10.5281/zenodo.20349045)
 
 ---
 
 ## FD-6〜FD-9：量子・内部自由度・量子重力
 
 ### **FD-6：量子の起源 — 未来方向の幅 Σ とプロトタイプ方程式**  
-DOI: [https://doi.org/10.5281/zenodo.20349089](https://doi.org/10.5281/zenodo.20349089)
+DOI: [https://doi.org/10.5281/zenodo.20349062](https://doi.org/10.5281/zenodo.20349062)
 
 ### **FD-7：内部自由度 κ の幾何学的起源**  
-DOI: [https://doi.org/10.5281/zenodo.20349108](https://doi.org/10.5281/zenodo.20349108)
+DOI: [https://doi.org/10.5281/zenodo.20349089](https://doi.org/10.5281/zenodo.20349089)
 
 ### **FD-8：内部自由度の動力学 — 固有方向の回転と内部対称性**  
-DOI: [https://doi.org/10.5281/zenodo.20349127](https://doi.org/10.5281/zenodo.20349127)
+DOI: [https://doi.org/10.5281/zenodo.20349108](https://doi.org/10.5281/zenodo.20349108)
 
 ### **FD-9：更新モーメント階層の統合方程式 — 古典・量子・内部自由度の同時進化**  
 DOI: [https://doi.org/10.5281/zenodo.20349127](https://doi.org/10.5281/zenodo.20349127)
